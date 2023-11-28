@@ -1,5 +1,6 @@
 {
-	"author":"BaDjinn",
+	"author": "BaDjinn",
+	"description": "BE_&_API_dev_certification",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
