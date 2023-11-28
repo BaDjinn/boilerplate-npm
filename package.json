@@ -1,6 +1,11 @@
 {
 	"author": "BaDjinn",
 	"description": "BE_&_API_dev_certification",
+	"keywords": [
+		"freecodecamp",
+		"back-end",
+		"certification"
+	],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
